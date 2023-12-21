@@ -1,0 +1,26 @@
+{
+  "name": "Jesse James",
+  "age": 54,
+  "address": {
+    "street": "Cume Boulevard",
+    "city": "Masozzel",
+    "state": "NJ",
+    "zip": "55317"
+  },
+  "contact": {
+    "phone": "(363) 977-6153",
+    "servicePhone": "800842736"
+  },
+  "birthday": "1969-08-02T04:46:21.540Z",
+  "ip": "55.73.254.239",
+  "foo": "bar",
+  "profile": {
+    "about": "Umacac emekaj loun ejopi amu elohana lugemkik de je mo adi loczulu covasfu hu taz pilfat vewwuk. Kumesu gazlezaf ged ofje hesu ze tucnap bef nozmol duvakja vaglapzit moeh ujijujsev kah bavsatmug os. Jewer kikuw anebu tah zonafeg to rib loram fi si muzu ogluw suru lehbusvu.",
+    "bio": "Hemli sikjehuw es sev vavihma eru fe noj ciwow soplok zejipu av heslikri. Muh milode obij idalu hawnodge iduune sup kejteb dobna naj mojigezuw vajsurem atonad egag. Keece cubso iso zozsas fivi zesej towapna top sowcigko tesa vaccu gozgaah deimaar vuec jafalvo cikmujjeg os. Widamwe faw konriwzaj ha ugioh imufa he hap tit vushoho fosif wacki wecken. Opo sotohsi re waz hiimnih jelti wilated hewso wenrojnah makmok kaasi wibar palpiuma ma."
+  },
+  "apiKey": "8f8ecc0743c37fe0585b61a00725f080c876a2d138bf370b4f3824fba115e6b5",
+  "currency": {
+    "code": "SYP",
+    "name": "Syria Pound"
+  }
+}
