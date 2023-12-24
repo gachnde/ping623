@@ -1,0 +1,26 @@
+{
+  "name": "Emma Atkins",
+  "age": 18,
+  "address": {
+    "street": "Uwovo Pike",
+    "city": "Lojotje",
+    "state": "UT",
+    "zip": "39434"
+  },
+  "contact": {
+    "phone": "(234) 292-7940",
+    "servicePhone": "800884713"
+  },
+  "birthday": "1991-02-05T21:04:43.761Z",
+  "ip": "132.25.230.82",
+  "foo": "bar",
+  "profile": {
+    "about": "Gepih wo su covuen ahe wippohin ohiniho zi po igihaoti ur lab lep. Cuw liv poc jopjivta muz omozucned powli etavefod ebucajdu limul vupar sesnubjid pukajuvaf. Weruztit nazib ege doskucpal gohwub daed zajam kaknol jakatuaz iwlo uri peewiibu rankovkuv pita sawri wu. Eluvi ojpot no pouzeje nowsodkip iroci zer ma ofe juguk puj vokuffub fo apdusi ewe. Bet nucu vupdeef bieceog togu aho fiuvha zovogale arahuig moicicu wicruj kujusbo laoli.",
+    "bio": "Jep imki cuwbuf mimamu nivbizvus cel du demogu ev honmobu rinoz su. Bud mumfuaz kiaz ulto jucwu osbawow zipoz wuwepi seluvfe om biczo asabusu umwa puj cunuto lud zoclebup woanne. Inouzu lawof muluj bur kenihaz irdezhi evtubon hefhajpe zaokutem manra efaef sej detanoz ji indafil kaz."
+  },
+  "apiKey": "95dcc8393d5c5481f707cbea60f7e72b9d5fe5bd03296d687777053d2144b5d6",
+  "currency": {
+    "code": "USD",
+    "name": "United States Dollar"
+  }
+}
