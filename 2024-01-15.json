@@ -1,0 +1,26 @@
+{
+  "name": "Shane Roy",
+  "age": 24,
+  "address": {
+    "street": "Sechej Plaza",
+    "city": "Nekutic",
+    "state": "NE",
+    "zip": "69986"
+  },
+  "contact": {
+    "phone": "(811) 647-6723",
+    "servicePhone": "800318855"
+  },
+  "birthday": "2004-12-10T19:57:12.978Z",
+  "ip": "83.185.217.245",
+  "foo": "bar",
+  "profile": {
+    "about": "Cis laj ulu jemi nalhu liamzin ucizu mahevwoh uzsizte umepafuwi acweej hu bezojega. Ficleci kulo go ire afdas fa dercav esasodwe ivarenro dacogalaf peim pectu. Ca muni bojufuhi timguij ogsuper zek na hihlizwu ajzog rogtamvu rojletpo hutjevacu regopdep. Bid deezgan cusowpoj zivokgis gektu ut rira bejgume ti te sa sakpuda.",
+    "bio": "Ifbeb dicob gok wuekabi bocu bo be wizdiloc bi muj oj gebdadi. Wa nuvli sahomba ko emiufajar bun aduef fafawan ciiv gasipawa jawheg as puje uk saga gonpuc dof ac. Rattah cabuk ag jote pa fa genco nivilar ezcar ojjedoh evufom upi ro cepo nu nuvacu cefwotek hotwe. Figo ga roczano ji didwubje mojpec hufdeh bowba nawehoc wevsadu tezdav bescerzil vigi. Ri fosvunku te tekabzet adiletek bogov jomzub wururer be dohmulgaj cahuwa vavij tadre naphave boj corejo. No warma ladub es ozipo nozeco daviz pektak jomeleda rigjovjap zu mejabu vog wike kefenucos nafna dihor zed."
+  },
+  "apiKey": "9ab010c40c374072ea395af175fd8d1ec4ea43579262a49878e6b7c28109524d",
+  "currency": {
+    "code": "GNF",
+    "name": "Guinea Franc"
+  }
+}
