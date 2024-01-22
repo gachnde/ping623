@@ -1,0 +1,26 @@
+{
+  "name": "Sally Stevenson",
+  "age": 58,
+  "address": {
+    "street": "Fies Extension",
+    "city": "Lorarwo",
+    "state": "MI",
+    "zip": "59737"
+  },
+  "contact": {
+    "phone": "(713) 402-5854",
+    "servicePhone": "800258519"
+  },
+  "birthday": "1984-12-09T21:30:31.671Z",
+  "ip": "224.188.107.226",
+  "foo": "bar",
+  "profile": {
+    "about": "Nojawe upobe vovu wol hu se tu wenfi iho hubu domhucfo rubo. Uk morlevvek dupuh pu sod bibdif secnodka vuz ma kivopak zoinogab ifela mad wa hizga bufgu wodfanve. Ibuva hal ganteiwe ruv us maeda run av osole neorbuf balbeule acidut jobij fibfapfas. Vi gu romu rufof dah iwfu vam eracajse pupad diwav kuvas sil parepi huwfajha bimoif eloveli ugvac.",
+    "bio": "Jajvigos ewaar fot givi ritapbo eh ra vu ej bobje ibodupaf wor. Ok lesgob ape pob womahom safsu darudbor rogob jahehuk jekuva duvdok ocu ho supvev ache ek fet iru. Ajmiru soano fedjej laejbe im kideldud fuj jaj so do duvseke ve rovupe defa edpundu jojwa nu. Rilo kum dercuso ajhul dikoj hokewe fegfelis zoeju hevoh sokniw du arokaija log er fuulofon sidul jorbakol cabevhek."
+  },
+  "apiKey": "3c921be9abc45f476bd44685dc79f6bb45e0158fcfca7269dbab517060592486",
+  "currency": {
+    "code": "VND",
+    "name": "Viet Nam Dong"
+  }
+}
