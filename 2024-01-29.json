@@ -1,0 +1,26 @@
+{
+  "name": "Lena Warner",
+  "age": 25,
+  "address": {
+    "street": "Dede Boulevard",
+    "city": "Povfieg",
+    "state": "MS",
+    "zip": "38996"
+  },
+  "contact": {
+    "phone": "(233) 475-7474",
+    "servicePhone": "800476556"
+  },
+  "birthday": "1970-01-11T15:52:10.332Z",
+  "ip": "88.137.19.13",
+  "foo": "bar",
+  "profile": {
+    "about": "Nepaba emile ziib sushi jo ke tulru wa nukan susfempag ul jip loz hipatcin bene. Basizta pujma kudem faula ta si ahvucuh lek ig vefmate biba zeoz valig mub fadipsa. Onelofcaw gofdomvir faj moriez uzijupi pugatcop se bujwe jaova emifazpiz eke edukuada ekji za hodkazmov ledafdes micuow.",
+    "bio": "Cinmer uvjafo taefovaf rurado mere fop icu vasnip ijuva rewitoh jidu pek ha abducun jika butuvde. Fa ma akutiga atafuni godi ru ali merluf je cupef vuohika he jugo pij jeev iriovu fezlov. Abeafe uco jihgonla puizgaj ogaba dadfoz liip kaw efipaoho ak zazpe fipo ag ul fa luwauko di len."
+  },
+  "apiKey": "e359c7d0e4dc00c70fa43bbebe1983d3ccc1e03d77b5886bfe7603cb67a46d75",
+  "currency": {
+    "code": "SHP",
+    "name": "Saint Helena Pound"
+  }
+}
