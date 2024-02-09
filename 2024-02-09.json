@@ -1,0 +1,26 @@
+{
+  "name": "Alice Berry",
+  "age": 60,
+  "address": {
+    "street": "Jemim Loop",
+    "city": "Esovace",
+    "state": "SC",
+    "zip": "20901"
+  },
+  "contact": {
+    "phone": "(271) 588-9473",
+    "servicePhone": "800325488"
+  },
+  "birthday": "1989-01-14T00:34:35.249Z",
+  "ip": "98.20.85.26",
+  "foo": "bar",
+  "profile": {
+    "about": "Nilpihag ilani bujmifoc cehidko kirlul mir ped ukupahka oruibugi pa woska fo mim ra hagzin uvwivzi. Higivo ibweif oziici gewozub hif to komubi nubora viv tu peg sitipuwuj inaaz. Bijug lafiwzu rewuvek gus owuwupa diddu mevooki vuca sokaz setvidhog veza voc zu ji daer. Cobov lokuv piok fiw do lozehhe tofevecil moif ewreroj vapireji gowfu herisi hilabe folre doregvil odozig amifadse varrur.",
+    "bio": "Fow dodkih gohuf divoc bot peco migehomod norcahced gecdijut si kemoud mu lulwi unjeze vev saweoc. Kuur si elmew to zaodfu cep zijceno cunejke ru hial nasi hecgunez botizin warasis gakki. Veohaso uzi cilsunus vogheodi ebvavozi zigi meseti ij lo majpato zu wof cure wekevo talma. Zarge guwdewa omehu mec bater ba duuleac azo gelek iz demcew or vudwiv rap edga fimvar."
+  },
+  "apiKey": "79364c6c937e4415482c362f8199f7764ed9a683560338f06efe0322440421cd",
+  "currency": {
+    "code": "AZN",
+    "name": "Azerbaijan New Manat"
+  }
+}
