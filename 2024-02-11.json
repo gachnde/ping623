@@ -1,0 +1,26 @@
+{
+  "name": "Hunter Burke",
+  "age": 23,
+  "address": {
+    "street": "Vivca Boulevard",
+    "city": "Monumam",
+    "state": "WA",
+    "zip": "32089"
+  },
+  "contact": {
+    "phone": "(338) 626-6635",
+    "servicePhone": "800357893"
+  },
+  "birthday": "1988-05-09T16:17:26.608Z",
+  "ip": "39.148.106.160",
+  "foo": "bar",
+  "profile": {
+    "about": "Ko ahazu kefiliugu fahli diw elopaoz eb bavfobi vejov himifal nofmi nezeg. Ilo ricisa gogo mimop guk gobur edmapo jucjethe ka wuezatat zufoti mibwa wi nek wuzbek rafavil. Mih vi cogeposo vezdomga li isiabasav vif ritovwe epca kihcubu roruza wil piwhisi fo fiitsa.",
+    "bio": "Voporreg vo mutvug odasepi ermip ba dacu revwanfed ajtab miceki hor higizno ukauwivij ug ejiudni occa dom tocowbi. Ge mammurwo rad dajpo teh jauberob ogewagfi lunuve diwuru najo gim seida hubmo hejerzel bunebakaf hahkir devogahut. Motewul cupetuene wikode keka la tuavijo gem linemev mus ursac atsate la roili. Kohzugja vawa vap cicum cuw il je honzoj sizrori ojgidome edahec bolugen bez dotancuh. Anu pirhokhi hiw adeehmo apono ciref dosapga fikec ucto paaj lal pinvaeve cijfonba zeep do."
+  },
+  "apiKey": "f56aade6a737ceb5cfc843d7f7a6e1e7a4393f6392bf0d7a8bb86152c27ae47f",
+  "currency": {
+    "code": "RUB",
+    "name": "Russia Ruble"
+  }
+}
