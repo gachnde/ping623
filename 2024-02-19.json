@@ -1,0 +1,26 @@
+{
+  "name": "Bill Padilla",
+  "age": 26,
+  "address": {
+    "street": "Bankog Lane",
+    "city": "Ajcebven",
+    "state": "FL",
+    "zip": "68995"
+  },
+  "contact": {
+    "phone": "(831) 968-3737",
+    "servicePhone": "800275482"
+  },
+  "birthday": "1993-08-15T11:54:32.346Z",
+  "ip": "3.184.122.207",
+  "foo": "bar",
+  "profile": {
+    "about": "Pudumi baz leftugun ramuf pi run oltapmo nalivu je wip fe jur jed gi dos. Hile wu wecekbi medzo fezejki moh vibozcu zarum rapum izeta gi efu esi tuhig mehimhor oju somvoofu. Ocu zovasu denjofav ulimalij zokap diuve rawmulugo ta ilejetmul hafvaude wu bevaci badvaddug ruk ehuzuc tes gu. Efma agi reh casuret ogu jufonu lifighuc zicsailu utut siw dafegluf gogezuc doiga edvi taij bizofzi zitnug mawo. Lotjap pucogok zisbe de zehcoho neviflet lijo owiwu bajuc pef fuvder lesweceh ovcus. Er mel bepij jeir jusgi benaemo uvenel citreh vejsa hobuzoop hi se pavisaw tavum uzaido mojjelzu zili af. Bit afe va cuhjutfo suftu awumzur iwi lomodle nejo tos bocus weku owuwo taco.",
+    "bio": "Kudhihi mubnuvir norama heor vu ro mibna icejiszu tisutug cudospij lid ugifesif ne upake lulesoguw asaacdij hevinvaf du. Uvvole arohucfiv riawulo ivifwov kidsihza tidevlo caes rorla dep pir fac vocvehwu jid zugak gevhuv rumsihfa. Hilotli butuf fierre jiov lurijofo adtim bub tumgul befguw moho hakeesi zolav himi wejaffi kocaj vedbu. Ik goces vogugot wagajguv edtuv go vi hantan seiwe ita baju ve hajer zidimdo mowgez. Vil zutjiwuk pizzet zokel rer zozgal dugakwid zimodu ki acdi asieko saiko."
+  },
+  "apiKey": "7c547568f8f6a043abd83d6d25e068b0e1249041ff9f476e0985bec1ac718f44",
+  "currency": {
+    "code": "VUV",
+    "name": "Vanuatu Vatu"
+  }
+}
