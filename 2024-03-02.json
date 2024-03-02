@@ -1,0 +1,26 @@
+{
+  "name": "Eva Hammond",
+  "age": 52,
+  "address": {
+    "street": "Peche Terrace",
+    "city": "Ekumiisa",
+    "state": "NV",
+    "zip": "84030"
+  },
+  "contact": {
+    "phone": "(307) 586-8703",
+    "servicePhone": "800729989"
+  },
+  "birthday": "1975-09-13T19:32:45.098Z",
+  "ip": "113.76.64.128",
+  "foo": "bar",
+  "profile": {
+    "about": "Fev ne ipofa fel agi se vonli cohebmi jahiz pobvu uv ehorergoj wouw fubeb wu kauratum. Gacuor paanehel ebo lugid budeam nagsopore pice oceubo zis odlo docfa escakki. Pi nez vap lim umvika ka buw igrinic wim lizho riczufdes was nub at. Wu zaka kiesa du imfavuk pohatza re peb na ecsub fulgat citmi pohi.",
+    "bio": "Jinpogak viwvud kigri bopipwi kegjura colefbik muvda de bictet dedices levewugen gijpo goclawe ora bapkokil weasowoc uz miatedo. Huneg pa ese honozeol oco ecemusa agela izodi hin vov ehohed woc kope. Vuvevra ha ura jazad zigte nu nultazmus wueci zu leksiula bujmeajo orjami atgeje ri husgetma zijip focappu. Zavjif ruh kapwi jaidha soklabba gagitog nufge so jez pej nazi zop."
+  },
+  "apiKey": "ef75c8e9b7a400513eea827df8ad86ade5a56a4cae0093590fe04bceba4b6d94",
+  "currency": {
+    "code": "DZD",
+    "name": "Algeria Dinar"
+  }
+}
