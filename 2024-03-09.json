@@ -1,0 +1,26 @@
+{
+  "name": "Gordon Fields",
+  "age": 18,
+  "address": {
+    "street": "Cogaj Turnpike",
+    "city": "Faucta",
+    "state": "UT",
+    "zip": "50329"
+  },
+  "contact": {
+    "phone": "(322) 425-1616",
+    "servicePhone": "800123891"
+  },
+  "birthday": "1989-04-23T22:57:26.985Z",
+  "ip": "202.221.189.152",
+  "foo": "bar",
+  "profile": {
+    "about": "Hin hiswizij paole wesmeto luwabfu wif uf uc ji avbukaju eguceuke lu. Fezuh lubzez ben wus baskal mahbec ak sepave viwzud puntop vor otaco evadma ca da pe. Iwipo po fu hat di duwket cinbomure warpoefo nug ek bif zo us biur ipo zovfoc hir.",
+    "bio": "Beeso tevuja hissufu zefohu ej lahulda azgab nimo mu gub mapnu lijec fad veksuwnu hijoj. Ve taoh sosofim co dufgura pus azma guputso no aje vegpem ariacwuw iwan hem ha. Akta awucu ide jiza ripiv ik mambezre olijal cimep juk kid rowuh sujgot tu jube lahi mikubdu an."
+  },
+  "apiKey": "6de51fd7144a1e5f6640bb5d0b0ccd6021d37c2395199a775b41cc36ce34b8b7",
+  "currency": {
+    "code": "ISK",
+    "name": "Iceland Krona"
+  }
+}
