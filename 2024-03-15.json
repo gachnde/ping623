@@ -1,0 +1,26 @@
+{
+  "name": "Hester Moody",
+  "age": 25,
+  "address": {
+    "street": "Guwti Glen",
+    "city": "Zilgooza",
+    "state": "MT",
+    "zip": "21109"
+  },
+  "contact": {
+    "phone": "(931) 889-6956",
+    "servicePhone": "800582593"
+  },
+  "birthday": "1992-10-21T17:29:02.293Z",
+  "ip": "251.30.218.186",
+  "foo": "bar",
+  "profile": {
+    "about": "Bapeva nebuv caus tojag gosfem fasabe com gacestu tiileja siwre zoc rajo ewabofol kusec emo ke. Het vuh no ufabetcew hi uvda umirog zisiwto luj vadawo uszik enas haruw. Kewap lafu moggel bimnig ja debwi is dav le talvetmot ha oto.",
+    "bio": "Kanfufic nabbibuj nusiteka cirvuzu kivwufi katijno uzote zu guta zah pupibu nicancuk va. Ovaah ugo hivbilec ujaheaf gidrawu ijeeb pozmi zobretbob ledwe rerih icpoz rumsuguha mi ligrecuce. Baha ode surim cahcon ecebap uva norten na rip afafo okufucil vig ucozha odjici pu dapoh matmoda puvucsic. Puccoczev hoero olotane he fan ho pepwor tocetwe memik cocubogav etoinsu gegaad bu piwa pewa emarak bibwupu vecetap. Etve reteshic dut omemubriw cinid wekapepa fod ocvet nalilal no irarofveh kaosa ka moti pa se cittogin budcuw. Rasba neaw foh inriwsal isilamani sek cuvfe hujof powecfo visoinu zecofuzi mu dujassud ari ilo carvubiw."
+  },
+  "apiKey": "a43c36fd810d4092d87859f293f929e95c5cb7f9e39a4fe437b868b0ba6addee",
+  "currency": {
+    "code": "MKD",
+    "name": "Macedonia Denar"
+  }
+}
