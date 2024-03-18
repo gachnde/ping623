@@ -1,0 +1,26 @@
+{
+  "name": "Devin Flores",
+  "age": 40,
+  "address": {
+    "street": "Amidiw Loop",
+    "city": "Bocolitev",
+    "state": "UT",
+    "zip": "58520"
+  },
+  "contact": {
+    "phone": "(812) 867-3751",
+    "servicePhone": "800232757"
+  },
+  "birthday": "1997-07-13T12:20:41.688Z",
+  "ip": "179.204.138.30",
+  "foo": "bar",
+  "profile": {
+    "about": "Boj tidsu osiluh zac ebdanaz sorbek alu zeaj rajucvub uclara lanju caduwiruw parrede kep inumegroj sepcop tat ji. Imce howhe lupmugev wajen balatno falnoij zigve jadsa uke oliza raci wekomol zo ocobe sof ezaba asvetbed helu. Lutowrat ij zojatlog fielseb dawize wo pufwe lesuco cogi cifna alupi rewu zamwihiv ja.",
+    "bio": "Ic en kinehabuw fuckibil veduh asu ij jolwo vockuwuw fe ug avva porkuki. Kekfuscu sosu wove nozupeb sozez bejpoazi pi jenog kanalof wami baw ajo biufgig fujici. Wo tap zogper ageda acsin ughaj fofgoc liopfiv hobocit di vet atu elitih nulima."
+  },
+  "apiKey": "170795316a7a6afd7048a18060a17d106713083419087cf4aa62239f60478ead",
+  "currency": {
+    "code": "JEP",
+    "name": "Jersey Pound"
+  }
+}
